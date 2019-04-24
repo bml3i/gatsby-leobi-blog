@@ -35,7 +35,7 @@
   "zhihuUsername": "",
   "githubUsername": "bml3i",
   "gitalk": {
-    "repo": "leo.bi",
+    "repo": "gatsby-leobi-blog",
     "admin": ["bml3i"],
     "owner": "bml3i",
     "clientID": "cbf1b76d87ddbaa2bfad",
