@@ -1,93 +1,36 @@
 {
-  "url": "https://calpa.me",
+  "License": "by",
   "meta": {
     "favicon": "https://i.imgur.com/PO9Y4fT.jpg",
-    "keyword": "calpa, blog, JavaScript",
-    "description": "Calpa 的技術博客，開發日常，以及遇到的坑",
+    "keyword": "Leo, Blog",
+    "description": "早起的鸟儿有虫吃",
     "theme_color": "#384f7c",
-    "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
+    "google_site_verification": "XzqtOLwmK9XiOPTiFiFa2HuJ4gc_Wj2jlp1l89TcuF4"
   },
-  "name": "calpa",
+  "name": "Leo",
+  "gaTrackId": "",
   "about": "/2018/05/01/about-calpa-liu/",
-  "email": "calpaliu@gmail.com",
-  "stats": {
-    "image": "https://i.imgur.com/VjBWiSt.png",
-    "title": "過去三十日數據",
-    "description": "過去三十日數據"
-  },
-  "title": "Calpa 的技術博客",
-  "gitalk": {
-    "repo": "calpa.github.io",
-    "admin": ["calpa"],
-    "owner": "calpa",
-    "clientID": "18255f031b5e11edd98a",
-    "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
-    "pagerDirection": "first",
-    "distractionFreeMode": true
-  },
-  "License": "by",
-  "friends": [
-    {
-      "href": "https://www.boatsky.com/",
-      "title": "太空船博客"
-    },
-    {
-      "href": "http://blog.shanamaid.top/",
-      "title": "娜酱骑士团"
-    },
-    {
-      "href": "https://clarencec.github.io/",
-      "title": "Clarence Blog"
-    },
-    {
-      "href": "http://f2ex.cn/",
-      "title": "F2EX"
-    },
-    {
-      "href": "https://jeffjade.com/",
-      "title": "晚晴幽草轩"
-    },
-    {
-      "href": "https://macplay.github.io/",
-      "title": "MacPlay"
-    }
-  ],
-  "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
-  "wordings": ["GatsbyJS, ReactJS", "全週期開發者"],
-  "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
-      "href": "/2018/12/24/front-end-blog-system-review-2018/",
-      "title": "網站數據"
+      "title": "Tags",
+      "href": "/tags/"
     },
     {
-      "href": "/guestbook/",
-      "title": "留言簿"
-    },
-    {
-      "href": "/tags/",
-      "title": "Tags"
-    },
-    {
-      "href": "/2018/05/01/about-calpa-liu/",
-      "title": "關於作者"
+      "title": "關於作者",
+      "href": "/2018/05/01/about-calpa-liu/"
     }
   ],
+  "url": "https://leo.bi",
+  "gaOptimizeId": "",
   "redirectors": [
     {
-      "toPath": "/2018/05/01/about-calpa-liu/",
-      "fromPath": "/about/"
+      "fromPath": "/about/",
+      "toPath": "/2018/05/01/about-calpa-liu/"
     }
   ],
-  "gaOptimizeId": "GTM-WHP7SC5",
-  "carouselItems": [
-    {
-      "src": "https://i.imgur.com/gw91CuI.jpg",
-      "target": "/stats/"
-    }
-  ],
-  "zhihuUsername": "piao-xue-wu-ying",
-  "githubUsername": "calpa",
-  "maxPostsInPage": 10,
-  "facebook": "calpablog"
+  "friends": [],
+  "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
+  "title": "Leo's Blog",
+  "email": "biminglei#gmail.com (replace # with @)",
+  "zhihuUsername": ""
 }
