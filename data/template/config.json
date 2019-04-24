@@ -9,15 +9,15 @@
   },
   "name": "Leo",
   "gaTrackId": "",
-  "about": "/2018/05/01/about-calpa-liu/",
+  "about": "/2019/04/24/about-leo-bi/",
   "navbarList": [
     {
       "title": "Tags",
       "href": "/tags/"
     },
     {
-      "title": "關於作者",
-      "href": "/2018/05/01/about-calpa-liu/"
+      "title": "About",
+      "href": "/2019/04/24/about-leo-bi/"
     }
   ],
   "url": "https://leo.bi",
@@ -25,12 +25,22 @@
   "redirectors": [
     {
       "fromPath": "/about/",
-      "toPath": "/2018/05/01/about-calpa-liu/"
+      "toPath": "/2019/04/24/about-leo-bi/"
     }
   ],
   "friends": [],
   "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
   "title": "Leo's Blog",
-  "email": "biminglei#gmail.com (replace # with @)",
-  "zhihuUsername": ""
+  "email": "biminglei@gmail.com",
+  "zhihuUsername": "",
+  "githubUsername": "bml3i",
+  "gitalk": {
+    "repo": "leo.bi",
+    "admin": ["bml3i"],
+    "owner": "bml3i",
+    "clientID": "cbf1b76d87ddbaa2bfad",
+    "clientSecret": "90c6c7f72d577b88751d0317b0f054b81b6a0fb1",
+    "pagerDirection": "first",
+    "distractionFreeMode": true
+  }
 }
