@@ -26,8 +26,10 @@ tags:
 当然有: 那就是利用chrome控制台 + JavaScript + xpath + 迅雷的批量下载功能
 
 
+
 ### 步骤一
 用Chrome打开要下载的资源网页，打开Developer Tools的Console栏，输入以下命令，然后回车。此时，所有的下载链接已经被复制到粘贴板中。
+
 ```
 var btstr="";$x("//*[@id='content']//table[@class='table'][1]/tbody/tr/td[1]//a[1]/@href").forEach(function(element){btstr=btstr+"\n"+element.value;});copy(btstr);
 ```
@@ -40,28 +42,28 @@ var btstr="";$x("//*[@id='content']//table[@class='table'][1]/tbody/tr/td[1]//a[
 
 
 ### 小技巧
-如果你想下载第二个表格里的资源怎么办？很简单，把[1]改成[2]即可。
+如果你想下载第二个表格里的资源怎么办？很简单，把1改成2即可。
 
-1. 下载第一个表格里的资源: 
+下载第一个表格里的资源: 
+
 ```
 var btstr = "";
-
 $x("//*[@id='content']//table[@class='table'][1]/tbody/tr/td[1]//a[1]/@href").forEach(function(element) {
   btstr = btstr + "\n" + element.value;
 });
-
 copy(btstr);
 ```
 
-2. 下载第二个表格里的资源: 
+
+下载第二个表格里的资源: 
+
 ```
 var btstr = "";
-
 $x("//*[@id='content']//table[@class='table'][2]/tbody/tr/td[1]//a[1]/@href").forEach(function(element) {
   btstr = btstr + "\n" + element.value;
 });
-
 copy(btstr);
 ```
+
 
 ![download-tips](https://leo.bi/assets/20190425/download-tips.jpg)
