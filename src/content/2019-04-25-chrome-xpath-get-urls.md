@@ -25,6 +25,7 @@ tags:
 
 当然有: 那就是利用chrome控制台 + JavaScript + xpath + 迅雷的批量下载功能
 
+
 ### 步骤一
 用Chrome打开要下载的资源网页，打开Developer Tools的Console栏，输入以下命令，然后回车。此时，所有的下载链接已经被复制到粘贴板中。
 ```
@@ -32,6 +33,7 @@ var btstr="";$x("//*[@id='content']//table[@class='table'][1]/tbody/tr/td[1]//a[
 ```
 
 ![xpath-chrome-console](https://leo.bi/assets/20190425/xpath-chrome-console.jpg)
+
 
 ### 步骤二
 打开迅雷，新建任务，按下Ctrl+V搞定。或者在步骤一前打开迅雷，使其自动监听粘贴板动作。
@@ -63,4 +65,3 @@ copy(btstr);
 ```
 
 ![download-tips](https://leo.bi/assets/20190425/download-tips.jpg)
-
