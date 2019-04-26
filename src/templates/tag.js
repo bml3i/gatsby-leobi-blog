@@ -44,7 +44,7 @@ const TagPage = ({ data, pageContext }) => {
         siteTitleAlt="Leo's Blog"
         isPost={false}
         description={tag}
-        image="https://leo.bi/assets/site/default-banner.jpg"
+        image="https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/20190426152346.jpg"
       />
     </div>
   );

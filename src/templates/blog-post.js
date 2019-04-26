@@ -60,7 +60,7 @@ class BlogPost extends Component {
     return (
       <div className="row post order-2">
         <Header
-          img={headerImage || 'https://leo.bi/assets/site/default-banner.jpg'}
+          img={headerImage || 'https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/20190426152346.jpg'}
           title={title}
           authorName={name}
           authorImage={iconUrl}
@@ -80,7 +80,7 @@ class BlogPost extends Component {
           siteTitleAlt="Leo's Blog"
           isPost={false}
           description={excerpt}
-          image={headerImage || 'https://leo.bi/assets/site/default-banner.jpg'}
+          image={headerImage || 'https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/20190426152346.jpg'}
         />
       </div>
     );
