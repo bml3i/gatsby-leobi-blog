@@ -60,7 +60,7 @@ class BlogPost extends Component {
     return (
       <div className="row post order-2">
         <Header
-          img={headerImage || 'https://i.imgur.com/M795H8A.jpg'}
+          img={headerImage || 'https://leo.bi/assets/site/default-banner.jpg'}
           title={title}
           authorName={name}
           authorImage={iconUrl}
@@ -80,7 +80,7 @@ class BlogPost extends Component {
           siteTitleAlt="Leo's Blog"
           isPost={false}
           description={excerpt}
-          image={headerImage || 'https://i.imgur.com/M795H8A.jpg'}
+          image={headerImage || 'https://leo.bi/assets/site/default-banner.jpg'}
         />
       </div>
     );

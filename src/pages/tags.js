@@ -48,7 +48,7 @@ const TagPage = ({ data }) => {
         siteTitleAlt="Leo's Blog"
         isPost={false}
         description="Tags Page"
-        image="https://i.imgur.com/M795H8A.jpg"
+        image="https://leo.bi/assets/site/default-banner.jpg"
       />
     </div>
   );
