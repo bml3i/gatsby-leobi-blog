@@ -1,7 +1,7 @@
 {
   "License": "by",
   "meta": {
-    "favicon": "https://leo.bi/assets/android-chrome-192x192.png",
+    "favicon": "https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/android-chrome-192x192.png",
     "keyword": "Leo, Blog",
     "description": "早起的鸟儿有虫吃",
     "theme_color": "#384f7c",
@@ -29,7 +29,7 @@
     }
   ],
   "friends": [],
-  "iconUrl": "https://leo.bi/assets/android-chrome-256x256.png",
+  "iconUrl": "https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/android-chrome-256x256.png",
   "title": "Leo's Blog",
   "email": "biminglei@gmail.com",
   "zhihuUsername": "",
