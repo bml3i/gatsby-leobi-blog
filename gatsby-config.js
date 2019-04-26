@@ -12,6 +12,13 @@ module.exports = {
     'gatsby-plugin-catch-links',
     'gatsby-plugin-webpack-bundle-analyzer',
     {
+      resolve: 'gatsby-plugin-baidu-tongji',
+      options: {
+        siteid: '70b800b510fcaeced4363b52ed8b1ffd',
+        head: true,
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/content`,
