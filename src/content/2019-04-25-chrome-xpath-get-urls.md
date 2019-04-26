@@ -17,7 +17,7 @@ tags:
 
 [天天看美剧](http://www.msj1.com/)这个网站不错，资源很全，内容的显示也很有调理。
 
-![tv-download-url](https://leo.bi/assets/20190425/tv-download-urls.jpg)
+![tv-download-url](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/tv-download-urls.jpg)
 
 下面就简单了，把10集对应的资源链接一个一个复制到剪切板，然后打开迅雷新建下载，粘贴，搞定。
 
@@ -34,7 +34,7 @@ tags:
 var btstr="";$x("//*[@id='content']//table[@class='table'][1]/tbody/tr/td[1]//a[1]/@href").forEach(function(element){btstr=btstr+"\n"+element.value;});copy(btstr);
 ```
 
-![xpath-chrome-console](https://leo.bi/assets/20190425/xpath-chrome-console.jpg)
+![xpath-chrome-console](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/xpath-chrome-console.jpg)
 
 
 ### 步骤二
@@ -66,4 +66,4 @@ copy(btstr);
 ```
 
 
-![download-tips](https://leo.bi/assets/20190425/download-tips.jpg)
+![download-tips](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/download-tips.jpg)
