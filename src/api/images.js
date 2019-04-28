@@ -13,12 +13,12 @@ const parseImgur = (rawImage, size = 'large') => {
   }
 
   const mapping = {
-    'small-square': 's',
-    'big-square': 'b',
-    small: 't',
-    medium: 'm',
-    large: 'l',
-    huge: 'h',
+    'small-square': 'ss',
+    'big-square': 'bs',
+    small: 'small',
+    medium: 'medium',
+    large: 'large',
+    huge: 'huge',
   };
 
   // Don't resize the png image
@@ -31,7 +31,7 @@ const parseImgur = (rawImage, size = 'large') => {
     return `${defaultImageSiteUrl}/${rawImage}`;
   }
 
-  const resizedImage = rawImage.replace(/(.*)\.(.*)/, `$1${mapping[size]}.$2`);
+  const resizedImage = rawImage.replace(/(.*)\.(.*)/, `$1-${mapping[size]}.$2`);
   // Prevent double http url
   if (resizedImage.match('http')) {
     return resizedImage;
