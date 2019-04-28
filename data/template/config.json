@@ -12,11 +12,15 @@
   "about": "/2019/04/24/about-leo-bi/",
   "navbarList": [
     {
-      "title": "Tags",
+      "title": "首页",
+      "href": "/"
+    },
+    {
+      "title": "标签",
       "href": "/tags/"
     },
     {
-      "title": "About",
+      "title": "关于",
       "href": "/2019/04/24/about-leo-bi/"
     }
   ],
