@@ -5,6 +5,7 @@ title: 使用Chrome和迅雷快速批量下载美剧
 slug: /2019/04/25/chrome-xpath-get-urls/
 date: 2019-04-25T03:48:03.125Z
 description: 教你如何使用Chrome和迅雷快速批量下载美剧
+headerImage: https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/header-games-of-thrones.jpg
 tags:
   - tips
   - xpath
