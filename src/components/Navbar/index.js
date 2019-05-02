@@ -35,7 +35,7 @@ const Navbar = () => (
       >
         <span className="brand-logo">Leo的博客</span>
         {' '}
-- 有格调的小众生活家居品牌评测
+- 小众生活评测
       </button>
       <button
         className="navbar-toggler"
