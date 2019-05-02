@@ -2,16 +2,13 @@
 templateKey: blog-post
 id: 20190425a
 title: 使用Chrome和迅雷快速批量下载美剧
-slug: /2019/04/25/chrome-xpath-get-urls/
+slug: /2019/04/25/movie-download-tips/
 date: 2019-04-25T03:48:03.125Z
 description: 教你如何使用Chrome和迅雷快速批量下载美剧
 headerImage: https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/header-games-of-thrones.jpg
 tags:
-  - tips
-  - xpath
-  - chrome
-  - 迅雷
-  - 权利的游戏
+  - 技巧
+  - 美剧
 ---
 
 随着《权利的游戏》新一季的热播，作为资深"伪"美剧迷的我有点懵B，因为这部火遍大江南北的HBO大作我竟然没看过。好在我的迅雷会员还没过期，可以利用一下加个速。

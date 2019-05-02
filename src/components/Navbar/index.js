@@ -33,7 +33,7 @@ const Navbar = () => (
           gotoPage('/');
         }}
       >
-        <span className="brand-logo">Leo&apos;s Blog</span>
+        <span className="brand-logo">Leo&apos;s Blog (爱生活，爱分享)</span>
       </button>
       <button
         className="navbar-toggler"
