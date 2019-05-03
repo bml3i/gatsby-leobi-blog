@@ -4,16 +4,12 @@ exports.createPages = require('./gatsby/CreatePages');
 
 exports.onCreateWebpackConfig = require('./gatsby/onCreateWebpackConfig');
 
-exports.modifyWebpackConfig = ({ config, stage }) => {
-  const timestamp = Date.now();
+exports.onCreateWebpackConfig = ({ stage, getConfig, actions }) => {
   if (stage === 'build-javascript') {
-    config.merge({
-      output: {
-        filename: `[name]-${timestamp}-[chunkhash].js`,
-        chunkFilename: `[name]-${timestamp}-[chunkhash].js`,
-      },
-    });
+    const timestamp = Date.now();
+    const config = getConfig();
+    config.output.filename = `[name]-${timestamp}-[chunkhash].js`;
+    config.output.chunkFilename = `[name]-${timestamp}-[chunkhash].js`;
+    actions.replaceWebpackConfig(config);
   }
-
-  return config;
 };
