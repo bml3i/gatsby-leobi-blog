@@ -43,7 +43,7 @@ tags:
 - 双抽储物空间设计
 - 甲醛释放符合欧盟环保标准
 
-[![北欧简约风格实木书桌](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-desk.jpg)](https://s.click.taobao.com/t?e=m%3D2%26s%3DMiQbovinHeccQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67jYjxJrP6R960e71iVTN2RwXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2GZ4tyJVdYb6%2B4pZAYbwdYOBvgK2B92%2BSxgxdTc00KD8%3D&pvid=10_112.232.105.214_11171_1556894233531)
+[![北欧简约风格实木书桌](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-desk.jpg)](http://leo.bi/item/workbench-desk)
 
 产品链接: [天猫 - 北欧简约风格实木书桌](https://s.click.taobao.com/t?e=m%3D2%26s%3DMiQbovinHeccQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67jYjxJrP6R960e71iVTN2RwXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2GZ4tyJVdYb6%2B4pZAYbwdYOBvgK2B92%2BSxgxdTc00KD8%3D&pvid=10_112.232.105.214_11171_1556894233531)
 
