@@ -11,17 +11,20 @@ tags:
   - 家居家装
 ---
 
-## 引言
+## 前言
+---
 不是所有的家庭都可以专门开辟一个房间装修成书房的，其实我觉得在客厅里布置一个工作台是个很棒的选择。这样无论是办公、学习还是娱乐，都不会影响其他家庭成员。你可以选择客厅的一个角落，配置张1米左右的桌子，一个台灯，一台家庭电脑，便可以充分利用客厅的闲置空间，满足基本的办公、学习和娱乐需要。下面展示的是我家客厅里的工作台，供大家参考。
 
 ---
 
 ## 整体效果
+---
 ![workbench-overview](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-overview.jpg)
 
 ---
 
 ## 物品清单
+---
 1. 实木书桌
 2. 苹果工作站 (Mac Pro)
 3. 苹果笔记本 (Macbook Pro)
@@ -36,16 +39,16 @@ tags:
 ---
 
 ## 详细介绍
-
+---
 #### 1.实木书桌
 ##### 选择理由:
 - 真材实料
 - 双抽储物空间设计
 - 甲醛释放符合欧盟环保标准
 
-[![北欧简约风格实木书桌](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-desk.jpg)](http://leo.bi/item/workbench-desk)
+[![北欧简约风格实木书桌](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-desk.jpg)](https://s.click.taobao.com/t?e=m%3D2%26s%3DMiQbovinHeccQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67jYjxJrP6R960e71iVTN2RwXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2GZ4tyJVdYb6%2B4pZAYbwdYOBvgK2B92%2BSxgxdTc00KD8%3D&pvid=10_112.232.105.214_11171_1556894233531)
 
-产品链接: [天猫 - 北欧简约风格实木书桌](https://s.click.taobao.com/t?e=m%3D2%26s%3DMiQbovinHeccQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67jYjxJrP6R960e71iVTN2RwXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2GZ4tyJVdYb6%2B4pZAYbwdYOBvgK2B92%2BSxgxdTc00KD8%3D&pvid=10_112.232.105.214_11171_1556894233531)
+产品链接: [天猫 - 北欧简约风格实木书桌](https://leo.bi/item/workbench-desk)
 
 ---
 
@@ -58,7 +61,7 @@ tags:
 
 [![苹果工作站](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-mac-pro.jpg)](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMVBlEfXyVGTV8LRGtMR1dGFxBFC1pXUwkEBwpZRxgHRQcLREJEAQUcTVZUGAVJHk1cTQkTSxhBekcLVRpcFAYWA2VjL3B8W14qWD4VWmBUXVsoamVAUiZdVxkyFg9VEl4lAhMGVR9YFwEUBmUrWxYyRGlVGloUAxMGVRhdJQIbBlcbWBAFFAZlG18RBRsPUBxcEgYSA2UcWxwyVmlRGgkcBxMOBk8LRgIRN2UbWhIDFgNRK1glMiIHZRhrV2xHAlBIXEFXQFJdEggQVRIDXRIIQFYaBAEbCxJSGgRQS2sXAxMDXA%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtaEgMWA1E%3D)
 
-产品链接: [京东 - 苹果工作站](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMVBlEfXyVGTV8LRGtMR1dGFxBFC1pXUwkEBwpZRxgHRQcLREJEAQUcTVZUGAVJHk1cTQkTSxhBekcLVRpcFAYWA2VjL3B8W14qWD4VWmBUXVsoamVAUiZdVxkyFg9VEl4lAhMGVR9YFwEUBmUrWxYyRGlVGloUAxMGVRhdJQIbBlcbWBAFFAZlG18RBRsPUBxcEgYSA2UcWxwyVmlRGgkcBxMOBk8LRgIRN2UbWhIDFgNRK1glMiIHZRhrV2xHAlBIXEFXQFJdEggQVRIDXRIIQFYaBAEbCxJSGgRQS2sXAxMDXA%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtaEgMWA1E%3D)
+产品链接: [京东 - 苹果工作站](https://leo.bi/item/workbench-mac-pro)
 
 ---
 
@@ -71,7 +74,7 @@ tags:
 
 [![苹果笔记本](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-macbook-pro.jpg)](https://union-click.jd.com/jdc?e=&p=AyIGZRprEAAQA1QYWyVGTV8LRGtMR1dGFxBFC1pXUwkEBwpZRxgHRQcLREJEAQUcTVZUGAVJHk1cTQkTSxhBekcLUBlZEQMRB2VfWVNGYB0UeztGXnFHPmEZZXtkcQB7VxkyFg9VEl4lAhMGVR9YFwEUBmUrWxYyRGlVGloUAxMGVRhdJQIbBlcbWBAFFAZlG18RBRsPUBNeFAAWBWUcWxwyVmlRGgkcBxMOBk8LRgIRN2UeWRcGEwRVK1glMiIHZRhrV2wRUFVMDkdSEA9VTl4QChMBXUhaFAEaUlBOCEJWEVRXSWsXAxMDXA%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWR5ZFwYTBFU%3D)
 
-产品链接: [京东 - 苹果笔记本](https://union-click.jd.com/jdc?e=&p=AyIGZRprEAAQA1QYWyVGTV8LRGtMR1dGFxBFC1pXUwkEBwpZRxgHRQcLREJEAQUcTVZUGAVJHk1cTQkTSxhBekcLUBlZEQMRB2VfWVNGYB0UeztGXnFHPmEZZXtkcQB7VxkyFg9VEl4lAhMGVR9YFwEUBmUrWxYyRGlVGloUAxMGVRhdJQIbBlcbWBAFFAZlG18RBRsPUBNeFAAWBWUcWxwyVmlRGgkcBxMOBk8LRgIRN2UeWRcGEwRVK1glMiIHZRhrV2wRUFVMDkdSEA9VTl4QChMBXUhaFAEaUlBOCEJWEVRXSWsXAxMDXA%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWR5ZFwYTBFU%3D)
+产品链接: [京东 - 苹果笔记本](https://leo.bi/item/workbench-macbook-pro)
 
 
 ---
@@ -86,7 +89,7 @@ tags:
 
 [![NB显示器支架](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-nb-rack.jpg)](https://s.click.taobao.com/t?e=m%3D2%26s%3DAUsxS%2BHvCDwcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67jz73TslSenS%2Bx%2FKLma%2BVNkXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2sBjEPaxx5sf6c5IJiirBlaU3eBwiHWp5u0ap%2F4r7hOY%3D&pvid=10_112.232.105.214_1456_1556895167144)
 
-产品链接: [淘宝 - NB显示器支架](https://s.click.taobao.com/t?e=m%3D2%26s%3DAUsxS%2BHvCDwcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67jz73TslSenS%2Bx%2FKLma%2BVNkXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2sBjEPaxx5sf6c5IJiirBlaU3eBwiHWp5u0ap%2F4r7hOY%3D&pvid=10_112.232.105.214_1456_1556895167144)
+产品链接: [淘宝 - NB显示器支架](https://leo.bi/item/workbench-nb-rack)
 
 ---
 
@@ -99,7 +102,7 @@ tags:
 
 [![DELL显示器](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-dell-monitor.jpg)](https://union-click.jd.com/jdc?e=&p=AyIGZRprEQIQAVIfXiVGTV8LRGtMR1dGFxBFC1pXUwkEBwpZRxgHRQcLREJEAQUcTVZUGAVJHk1cTQkTSxhBekcLURtZEwUWAmVfU3ABVFsPZzsccFFkDmcNRnJzQQlNVxkyFg9VEl4lAhMGVR9YFwEUBmUrWxYyRGlVGloUAxMGVhheJQIbBlcbWBAFFAZlG18RBRsPUR5bFgUaBmUcWxwyVmlRGgkcBxMOBk8LRgIRN2UfWxcEFQNQK1glMiIHZRhrV2wXA1NODEYBEQdRGFMQBBYGXBJZFVAVDlxLWRVSQlJQH2sXAxMDXA%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWR9bFwQVA1A%3D)
 
-产品链接: [京东 - DELL显示器](https://union-click.jd.com/jdc?e=&p=AyIGZRprEQIQAVIfXiVGTV8LRGtMR1dGFxBFC1pXUwkEBwpZRxgHRQcLREJEAQUcTVZUGAVJHk1cTQkTSxhBekcLURtZEwUWAmVfU3ABVFsPZzsccFFkDmcNRnJzQQlNVxkyFg9VEl4lAhMGVR9YFwEUBmUrWxYyRGlVGloUAxMGVhheJQIbBlcbWBAFFAZlG18RBRsPUR5bFgUaBmUcWxwyVmlRGgkcBxMOBk8LRgIRN2UfWxcEFQNQK1glMiIHZRhrV2wXA1NODEYBEQdRGFMQBBYGXBJZFVAVDlxLWRVSQlJQH2sXAxMDXA%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWR9bFwQVA1A%3D)
+产品链接: [京东 - DELL显示器](https://leo.bi/item/workbench-dell-monitor)
 
 ---
 
@@ -111,7 +114,7 @@ tags:
 
 [![罗技K380键盘](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-k380.jpg)](https://s.click.taobao.com/t?e=m%3D2%26s%3DF0E7un%2FXLr4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67ukpcuIKxkSC5jVt69nCuKcXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2PVv6XbfOX%2BBpd3JHc8%2Bo0iVcDK77XqQxa%2BdONtfi1KohhQs2DjqgEA%3D%3D&pvid=10_112.232.105.214_704_1556895782911)
 
-产品链接: [天猫 - 罗技K380键盘](https://s.click.taobao.com/t?e=m%3D2%26s%3DF0E7un%2FXLr4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67ukpcuIKxkSC5jVt69nCuKcXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2PVv6XbfOX%2BBpd3JHc8%2Bo0iVcDK77XqQxa%2BdONtfi1KohhQs2DjqgEA%3D%3D&pvid=10_112.232.105.214_704_1556895782911)
+产品链接: [天猫 - 罗技K380键盘](https://leo.bi/item/workbench-k380)
 
 ---
 
@@ -122,7 +125,7 @@ tags:
 
 [![苹果无线鼠标](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-magic-mouse.jpg)](https://s.click.taobao.com/t?e=m%3D2%26s%3DF940yUHwcMccQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67qGczrTrkuZwxF5AHBg6Tr4XHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2WVl1RXK8aPfKBP28fZsogI7sIaaddtozz2TFFEd9SqY%3D&pvid=10_112.232.105.214_10682_1556895984563)
 
-产品链接: [淘宝 - 苹果无线鼠标](https://s.click.taobao.com/t?e=m%3D2%26s%3DF940yUHwcMccQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67qGczrTrkuZwxF5AHBg6Tr4XHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2WVl1RXK8aPfKBP28fZsogI7sIaaddtozz2TFFEd9SqY%3D&pvid=10_112.232.105.214_10682_1556895984563)
+产品链接: [淘宝 - 苹果无线鼠标](https://leo.bi/item/workbench-magic-mouse)
 
 ---
 
@@ -134,7 +137,7 @@ tags:
 
 [![BOSE便携式蓝牙音箱](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-bose-mini2.jpg)](https://union-click.jd.com/jdc?e=&p=AyIGZRprFwIVD1ETXSVGTV8LRGtMR1dGFxBFC1pXUwkEBwpZRxgHRQcLREJEAQUcTVZUGAVJHk1cTQkTSxhBekcLVxtcHQYaAWUTHlRFG1cXSzhPZHd%2BHFAmb1FIYyFdVxkyFg9VEl4lAhMGVR9YFwEUBmUrWxYyRGlVGloUAxMGVxlbJQIbBlcbWBAFFAZlG18RBRsPUhtfEAQQA2UcWxwyVmlRGgkcBxMOBk8LRgIRN2UZWxIKFg9TK1glMiIHZRhrV2xFBwIcCUZSQFVVSVsQB0UDXRNaQlEUAVQaUxQEEwdSSGsXAxMDXA%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRlbEgoWD1M%3D)
 
-产品链接: [京东 - BOSE便携式蓝牙音箱](https://union-click.jd.com/jdc?e=&p=AyIGZRprFwIVD1ETXSVGTV8LRGtMR1dGFxBFC1pXUwkEBwpZRxgHRQcLREJEAQUcTVZUGAVJHk1cTQkTSxhBekcLVxtcHQYaAWUTHlRFG1cXSzhPZHd%2BHFAmb1FIYyFdVxkyFg9VEl4lAhMGVR9YFwEUBmUrWxYyRGlVGloUAxMGVxlbJQIbBlcbWBAFFAZlG18RBRsPUhtfEAQQA2UcWxwyVmlRGgkcBxMOBk8LRgIRN2UZWxIKFg9TK1glMiIHZRhrV2xFBwIcCUZSQFVVSVsQB0UDXRNaQlEUAVQaUxQEEwdSSGsXAxMDXA%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRlbEgoWD1M%3D)
+产品链接: [京东 - BOSE便携式蓝牙音箱](https://leo.bi/item/workbench-bose-mini2)
 
 ---
 
@@ -144,4 +147,4 @@ tags:
 
 [![ORICO桌面理线器](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-orico.jpg)](https://s.click.taobao.com/t?e=m%3D2%26s%3DlFoMIA6QgjscQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67mDgOMkasyH9P5bxJy%2F%2Fu7gXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2VaEboSz4S79ZuxIDGEJwgAu%2Frm6Ih%2BQrlrZCwRfamwMhhQs2DjqgEA%3D%3D&pvid=10_112.232.105.214_14469_1556896238030)
 
-产品链接: [天猫 - ORICO桌面理线器](https://s.click.taobao.com/t?e=m%3D2%26s%3DlFoMIA6QgjscQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67mDgOMkasyH9P5bxJy%2F%2Fu7gXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyoTYZ%2FxPmro2VaEboSz4S79ZuxIDGEJwgAu%2Frm6Ih%2BQrlrZCwRfamwMhhQs2DjqgEA%3D%3D&pvid=10_112.232.105.214_14469_1556896238030)
+产品链接: [天猫 - ORICO桌面理线器](https://leo.bi/item/workbench-orico)
