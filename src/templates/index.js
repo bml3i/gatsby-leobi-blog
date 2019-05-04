@@ -4,7 +4,7 @@ import Link from 'gatsby-link';
 
 import Card from '../components/Card';
 import Sidebar from '../components/Sidebar';
-import ShareBox from '../components/ShareBox';
+//import ShareBox from '../components/ShareBox';
 
 import './index.scss';
 
@@ -70,7 +70,7 @@ const Page = ({ pageContext, location }) => {
         </div>
         <div className="col-xl-2 col-lg-1 order-3" />
       </div>
-      <ShareBox url={location.href} hasCommentBox={false} />
+      {/* <ShareBox url={location.href} hasCommentBox={false} /> */}
     </React.Fragment>
   );
 };
