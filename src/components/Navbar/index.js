@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 import ReactGA from 'react-ga';
 
-import GithubCorner from '../GithubCorner';
+// import GithubCorner from '../GithubCorner';
 
 import NavItem from './NavItem';
 import { gotoPage } from '../../api/url';
@@ -45,7 +45,7 @@ const Navbar = () => (
       >
         <FontAwesomeIcon icon={faBars} />
       </button>
-      <GithubCorner url="https://github.com/bml3i/gatsby-leobi-blog" />
+      {/* <GithubCorner url="https://github.com/bml3i/gatsby-leobi-blog" /> */}
       <div
         className="collapse navbar-collapse flex-row-reverse"
         id="navbarSupportedContent"

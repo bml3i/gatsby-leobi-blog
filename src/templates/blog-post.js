@@ -15,7 +15,7 @@ import SEO from '../components/SEO';
 
 import Header from '../components/Header';
 // import TableOfContent from '../components/TableOfContent';
-import ShareBox from '../components/ShareBox';
+// import ShareBox from '../components/ShareBox';
 
 import { config } from '../../data';
 
@@ -72,7 +72,7 @@ class BlogPost extends Component {
           <div id="gitalk-container" />
         </div>
 
-        <ShareBox url={slug} />
+        {/* <ShareBox url={slug} /> */}
 
         <SEO
           title={title}
