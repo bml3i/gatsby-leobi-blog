@@ -33,6 +33,10 @@ const Head = () => (
       href="/atom.xml"
     />
     <meta
+      name="360-site-verification"
+      content="0107067e0e6bbea23ae0cccb9a571332"
+    />
+    <meta
       name="google-site-verification"
       content={config.meta.google_site_verification}
     />
