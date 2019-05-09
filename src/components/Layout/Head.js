@@ -37,10 +37,6 @@ const Head = () => (
       content="0107067e0e6bbea23ae0cccb9a571332"
     />
     <meta
-      name="sogou_site_verification"
-      content="sweTkhCw5e"
-    />
-    <meta
       name="google-site-verification"
       content={config.meta.google_site_verification}
     />
