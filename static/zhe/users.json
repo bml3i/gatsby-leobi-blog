@@ -1,0 +1,16 @@
+{
+    "version": "v1.1",
+    "versionUrl" : "https://leo.bi/tag/知乎回答数据提取器",
+    "authorName" : "Leo Bi",
+    "authorUrl" : "https://leo.bi",
+    "parts": [
+      {
+        "un": "zhe@leo.bi",
+        "slt" : "MjAyMDA4MDE=|200801"
+      },
+      {
+        "un": "test@leo.bi",
+        "slt" : "MjAyMDA3MjE=|200721"
+      }
+    ]
+  }
