@@ -1,8 +1,8 @@
 {
-    "version": "v1.1",
-    "versionUrl" : "https://leo.bi/tag/知乎回答数据提取器",
+    "version": "v1.2",
+    "versionUrl" : "https://leo.bi/tag/知乎插件",
     "authorName" : "Leo Bi",
-    "authorUrl" : "https://leo.bi",
+    "authorUrl" : "https://www.zhihu.com/people/biminglei",
     "parts": [
       {
         "un": "zhe@leo.bi",
