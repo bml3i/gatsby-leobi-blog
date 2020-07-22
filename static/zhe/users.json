@@ -1,5 +1,5 @@
 {
-    "version": "v1.2",
+    "version": "v1.3.1",
     "versionUrl" : "https://leo.bi/tag/知乎插件",
     "authorName" : "Leo Bi",
     "authorUrl" : "https://www.zhihu.com/people/biminglei",
@@ -10,7 +10,7 @@
       },
       {
         "un": "test@leo.bi",
-        "slt" : "1595260800|20200721"
+        "slt" : "1597420800|20200815"
       }
     ]
 }
