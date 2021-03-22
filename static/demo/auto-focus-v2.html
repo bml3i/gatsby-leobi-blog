@@ -1,0 +1,25 @@
+<p>
+	<input type="text" id="first" maxlength="5">
+	<input type="text" id="second">
+	<button id="go">clear</button>
+</p>
+<script>
+
+  const button = document.getElementById("go");
+  button.addEventListener("click", function() {
+  	document.querySelector("#first").value = "";
+  	document.querySelector("#second").value = "";
+  	document.querySelector("#first").focus();
+  });
+
+  document.querySelector("#first").addEventListener("keyup", evt => {
+  if (evt.target.value && evt.target.value.length === evt.target.maxLength) {
+      document.getElementById("second").focus();
+      setTimeout(() => {
+		const end = document.getElementById("second").value.length; 
+      	document.getElementById("second").select();
+      	document.getElementById("second").setSelectionRange(end, end);
+      }, 500);
+  }
+  });
+</script>
