@@ -14,11 +14,10 @@
 
   document.querySelector("#first").addEventListener("keyup", evt => {
   if (evt.target.value && evt.target.value.length === evt.target.maxLength) {
-      document.getElementById("second").focus();
+      document.getElementById("second").select();
       setTimeout(() => {
-		const end = document.getElementById("second").value.length; 
       	document.getElementById("second").select();
-      	document.getElementById("second").setSelectionRange(0, end);
+      	document.getElementById("second").setSelectionRange(1000, 1000);
       }, 500);
   }
   });
