@@ -1,4 +1,4 @@
-<xs:schema targetNamespace="http://cxf.apache.org/configuration/parameterized-types" 
+<xsd:schema targetNamespace="http://cxf.apache.org/configuration/parameterized-types" 
            xmlns:tns="http://cxf.apache.org/configuration/parameterized-types" 
            xmlns:xs="http://www.w3.org/2001/XMLSchema" 
            xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
@@ -9,52 +9,52 @@
            jaxb:version="2.0">
 
     
-    <xs:simpleType name="ParameterizedValue">
-    	<xs:restriction base="xs:string">
-    		<xs:pattern value="[$#](\{.*\}|\(.*\)|\[.*\])"/>
-    	</xs:restriction>
-    </xs:simpleType>
+    <xsd:simpleType name="ParameterizedValue">
+    	<xsd:restriction base="xs:string">
+    		<xsd:pattern value="[$#](\{.*\}|\(.*\)|\[.*\])"/>
+    	</xsd:restriction>
+    </xsd:simpleType>
     
-    <xs:simpleType name="ParameterizedUShort">
-    	<xs:annotation>
-	        <xs:appinfo>
+    <xsd:simpleType name="ParameterizedUShort">
+    	<xsd:annotation>
+	        <xsd:appinfo>
     	        <jaxb:class ref="java.lang.Integer"/>
-        	</xs:appinfo>
-        </xs:annotation>
-        <xs:union memberTypes="xs:unsignedShort tns:ParameterizedValue"/>
-    </xs:simpleType>
-    <xs:simpleType name="ParameterizedInt">
-    	<xs:annotation>
-	        <xs:appinfo>
+        	</xsd:appinfo>
+        </xsd:annotation>
+        <xsd:union memberTypes="xs:unsignedShort tns:ParameterizedValue"/>
+    </xsd:simpleType>
+    <xsd:simpleType name="ParameterizedInt">
+    	<xsd:annotation>
+	        <xsd:appinfo>
     	        <jaxb:class ref="java.lang.Integer"/>
-        	</xs:appinfo>
-        </xs:annotation>
-        <xs:union memberTypes="xs:int tns:ParameterizedValue"/>
-    </xs:simpleType>
-    <xs:simpleType name="ParameterizedUInt">
-    	<xs:annotation>
-	        <xs:appinfo>
+        	</xsd:appinfo>
+        </xsd:annotation>
+        <xsd:union memberTypes="xs:int tns:ParameterizedValue"/>
+    </xsd:simpleType>
+    <xsd:simpleType name="ParameterizedUInt">
+    	<xsd:annotation>
+	        <xsd:appinfo>
     	        <jaxb:class ref="java.lang.Long"/>
-        	</xs:appinfo>
-        </xs:annotation>
-        <xs:union memberTypes="xs:unsignedInt tns:ParameterizedValue"/>
-    </xs:simpleType>
-    <xs:simpleType name="ParameterizedLong">
-    	<xs:annotation>
-	        <xs:appinfo>
+        	</xsd:appinfo>
+        </xsd:annotation>
+        <xsd:union memberTypes="xs:unsignedInt tns:ParameterizedValue"/>
+    </xsd:simpleType>
+    <xsd:simpleType name="ParameterizedLong">
+    	<xsd:annotation>
+	        <xsd:appinfo>
     	        <jaxb:class ref="java.lang.Long"/>
-        	</xs:appinfo>
-        </xs:annotation>
-        <xs:union memberTypes="xs:long tns:ParameterizedValue"/>
-    </xs:simpleType>
-    <xs:simpleType name="ParameterizedBoolean">
-    	<xs:annotation>
-	        <xs:appinfo>
+        	</xsd:appinfo>
+        </xsd:annotation>
+        <xsd:union memberTypes="xs:long tns:ParameterizedValue"/>
+    </xsd:simpleType>
+    <xsd:simpleType name="ParameterizedBoolean">
+    	<xsd:annotation>
+	        <xsd:appinfo>
     	        <jaxb:class ref="java.lang.Boolean"/>
-        	</xs:appinfo>
-        </xs:annotation>
-        <xs:union memberTypes="xs:boolean tns:ParameterizedValue"/>
-    </xs:simpleType>
+        	</xsd:appinfo>
+        </xsd:annotation>
+        <xsd:union memberTypes="xs:boolean tns:ParameterizedValue"/>
+    </xsd:simpleType>
     
     
- </xs:schema>
+ </xsd:schema>
