@@ -2,17 +2,17 @@ window.onload = function onLoad() {
 
 	var bar = new ProgressBar.SemiCircle('#container', {
 	  strokeWidth: 6,
-	  color: '#FFEA82',
+	  color: '#00cc00',
 	  trailColor: '#eee',
 	  trailWidth: 1,
 	  easing: 'easeInOut',
-	  duration: 1400,
+	  duration: 800,
 	  svgStyle: null,
 	  text: {
 	    value: '',
 	    alignToBottom: false
 	  },
-	  from: {color: '#FFEA82'},
+	  from: {color: '#00cc00'},
 	  to: {color: '#ED6A5A'},
 	  // Set default step function for all animate calls
 	  step: (state, bar) => {
@@ -28,7 +28,7 @@ window.onload = function onLoad() {
 	  }
 	});
 	bar.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
-	bar.text.style.fontSize = '2rem';
+	bar.text.style.fontSize = '1rem';
 	
 	fetch("https://jms2.p.rapidapi.com/members/getbwcounter.php?service=463251&id=3f405ae0-e4f6-4ab5-8ca9-0bfe0717ed86", {
 		"method": "GET",
@@ -37,7 +37,13 @@ window.onload = function onLoad() {
 		}
 	})
 	.then(response => response.json())
-	.then(data => bar.animate(data.bw_counter_b / data.monthly_bw_limit_b))
+	.then(data => {
+		bar.animate(data.bw_counter_b / data.monthly_bw_limit_b, {
+		    duration: 800
+		}, function() {
+		    bar.setText((data.bw_counter_b / 1000 / 1000 / 1000).toFixed(2) + 'G/' + (data.monthly_bw_limit_b / 1000 / 1000 / 1000).toFixed(0) + 'G');
+		});
+	})
 	.catch(err => {
 		console.error(err);
 	});
