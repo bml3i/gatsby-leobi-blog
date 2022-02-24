@@ -30,10 +30,10 @@ window.onload = function onLoad() {
 	bar.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
 	bar.text.style.fontSize = '1rem';
 	
-	fetch("https://jms2.p.rapidapi.com/members/getbwcounter.php?service=463251&id=3f405ae0-e4f6-4ab5-8ca9-0bfe0717ed86", {
+	fetch("https://cors-anywhere.herokuapp.com/https://justmysocks5.net/members/getbwcounter.php?service=463251&id=3f405ae0-e4f6-4ab5-8ca9-0bfe0717ed86", {
 		"method": "GET",
 		"headers": {
-			"X-RapidAPI-Key": "17c20b93edmsh26ddcc0a7133621p10978ejsn80f690d2f4a1"
+			"origin": "null"
 		}
 	})
 	.then(response => response.json())
