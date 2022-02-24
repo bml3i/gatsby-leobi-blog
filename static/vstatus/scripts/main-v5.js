@@ -31,8 +31,9 @@ window.onload = function onLoad() {
 	bar.text.style.fontSize = '1rem';
 	
 	// https://cors-anywhere.herokuapp.com
+	// https://cors-pipe.herokuapp.com/
 	
-	fetch("http://leobi.synology.me:8088/https://justmysocks5.net/members/getbwcounter.php?service=463251&id=3f405ae0-e4f6-4ab5-8ca9-0bfe0717ed86", {
+	fetch("https://cors-pipe.herokuapp.com/https://justmysocks5.net/members/getbwcounter.php?service=463251&id=3f405ae0-e4f6-4ab5-8ca9-0bfe0717ed86", {
 		"method": "GET",
 		"headers": {
 			"origin": "null"
