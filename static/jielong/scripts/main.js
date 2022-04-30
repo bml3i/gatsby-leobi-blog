@@ -51,20 +51,23 @@ const itemNumberHandlerMap = new Map([
 	['两', '2'],
 	['一', '1'],
 	['半', '0.5'],
-	['蜜3刀','蜜三刀'],
-	['3鲜','三鲜'],
-	['4季豆','四季豆'],
-	['4喜丸子','四喜丸子'],
+	['蜜3刀', '蜜三刀'],
+	['3鲜', '三鲜'],
+	['4季豆', '四季豆'],
+	['4喜丸子', '四喜丸子'],
 	['5花肉', '五花肉'],
 	['5香', '五香'],
-	['6个核桃','六个核桃'],
-	['8宝', '八宝']
+	['6个核桃', '六个核桃'],
+	['8宝', '八宝'],
+	['8角', '八角']
 ]);
 
 function format() {
 	document.getElementById("result").value = '';
 
-	const content = document.getElementById("content").value + "\n";
+	let content = document.getElementById("content").value + "\n";
+
+	content = prepareInitialContent(content);
 
 	if (content) {
 		const contentArray = content.match(/(\d+)\.\s(\S*)(.*)\n/g);
@@ -75,8 +78,8 @@ function format() {
 
 			// in case someone didn't add a space after user name
 			if (line.match(/(\d+)\.\s(\S*)(.*)\n/g)) {
-				if (RegExp.$2.length > 20) {
-					line = line.replace(",", " ").replace("，", " ");
+				if (RegExp.$2.length > 8) {
+					line = line.replace(",", " ").replace("，", " ").replace("。", " ");
 				}
 			}
 
@@ -86,7 +89,7 @@ function format() {
 			}
 		}
 
-		const dataElement = document.getElementById("result"); 
+		const dataElement = document.getElementById("result");
 
 		let headerTextContent = "";
 		headerTextContent = headerTextContent.concat("序号");
@@ -104,17 +107,17 @@ function format() {
 		headerTextContent = headerTextContent.concat("单位");
 		headerTextContent = headerTextContent.concat("\t");
 		headerTextContent = headerTextContent.concat("备注");
-		
+
 		appendAsResultLine(dataElement, headerTextContent);
 
 		orderArray.every(function (orderRow) {
 
-			//console.log(orderRow);
+			console.log(orderRow);
 
 			if (orderRow.getMobile() || orderRow.getAddress()) {
 				let orderItems = orderRow.getOrderItems();
 
-				orderItems.every(function (orderItemRow){
+				orderItems.every(function (orderItemRow) {
 					let textContent = "";
 					textContent = textContent.concat(orderRow.getOrderId());
 					textContent = textContent.concat("\t");
@@ -131,10 +134,10 @@ function format() {
 					textContent = textContent.concat(orderItemRow.getUnitName());
 					textContent = textContent.concat("\t");
 					textContent = textContent.concat(orderRow.getComments());
-	
+
 					appendAsResultLine(dataElement, textContent);
 
-					return true; 
+					return true;
 				});
 			}
 
@@ -158,7 +161,7 @@ class Order {
 	}
 
 	getOrderId() {
-		return this.orderId; 
+		return this.orderId;
 	}
 
 	setUserName(val) {
@@ -166,11 +169,11 @@ class Order {
 	}
 
 	getUserName() {
-		return this.userName; 
+		return this.userName;
 	}
 
 	getMobile() {
-		return this.mobile; 
+		return this.mobile;
 	}
 
 	setAddress(val) {
@@ -178,26 +181,26 @@ class Order {
 	}
 
 	getAddress() {
-		return this.address; 
+		return this.address;
 	}
 
 	setOrderItems(val) {
-		this.orderItems = val; 
+		this.orderItems = val;
 	}
 
 	getOrderItems() {
-		return this.orderItems; 
+		return this.orderItems;
 	}
 
 	setComments(val) {
-		this.comments = val; 
+		this.comments = val;
 	}
 
 	getComments() {
-		if(this.comments.length < 4) {
-			return ""; 
+		if (this.comments.length < 4) {
+			return "";
 		} else {
-			return this.comments; 
+			return this.comments;
 		}
 	}
 
@@ -244,8 +247,8 @@ class Order {
 			// replace numbers
 			itemRow = batchReplace(itemRow, itemNumberHandlerMap);
 
-			if (itemRow.match(/[\D]*(\d[-]*[~]*[/.]*[\d]*)([|小|大|中|公]?[斤|个|颗|棵|根|份|箱|桶|包|块|两|把|盒|袋|瓶|升|串|挂|张|只|条|听|朵|板|提]{1}).*/g)) {
-				let quantity = RegExp.$1; 
+			if (itemRow.match(/[\D]*(\d[-]*[~]*[/.]*[\d]*)([|小|大|中|公]?[斤|个|颗|棵|根|份|箱|桶|包|块|两|把|盒|袋|瓶|升|串|挂|张|只|条|听|朵|板|提|节]{1}).*/g)) {
+				let quantity = RegExp.$1;
 				let unitName = RegExp.$2;
 				let itemName = itemRow.replace(quantity + unitName, "");
 				let orderItem = new OrderItem(itemName, fixQuantityContent(quantity), unitName);
@@ -275,7 +278,7 @@ class OrderItem {
 	}
 
 	getItemsName() {
-		return this.itemName; 
+		return this.itemName;
 	}
 
 	setQuantity(val) {
@@ -283,15 +286,15 @@ class OrderItem {
 	}
 
 	getQuantity() {
-		return this.quantity; 
+		return this.quantity;
 	}
 
 	setUnitName(val) {
-		this.unitName = val; 
+		this.unitName = val;
 	}
 
 	getUnitName() {
-		return this.unitName; 
+		return this.unitName;
 	}
 }
 
@@ -309,7 +312,7 @@ function removeExtraInfo(val) {
 }
 
 function fixQuantityContent(val) {
-	return val.replaceAll("-", "~"); 
+	return val.replaceAll("-", "~");
 }
 
 // replace different kinds of separators with the target separator
@@ -336,19 +339,19 @@ function needAdditionalSplit(val) {
 }
 
 function containsAddressInfo(val) {
-	if (val.includes("楼") || val.includes("单元") || val.includes("小区") || val.includes("栋") 
+	if (val.includes("楼") || val.includes("单元") || val.includes("小区") || val.includes("栋")
 		|| val.includes("室")
 		|| val.includes("入口") || val.includes("出口") || val.includes("地址") || val.includes("社区")
 		|| val.includes("物业") || val.includes("正门") || val.includes("侧门")
 		|| val.includes("南区") || val.includes("北区") || val.includes("东区") || val.includes("西区")
 		|| val.includes("南门") || val.includes("北门") || val.includes("东门") || val.includes("西门")
-		|| val.includes("大门") || val.includes("小门") || val.includes("门口") 
-		|| val.includes("前门") || val.includes("后门") ) {
+		|| val.includes("大门") || val.includes("小门") || val.includes("门口")
+		|| val.includes("前门") || val.includes("后门")) {
 		return true;
 	} else if (val.match(/[\d]+[/-][\d]+[/-][\d]+/g)) {
 		return true;
 	} else {
-		return false; 
+		return false;
 	}
 }
 
@@ -361,4 +364,34 @@ function batchReplace(val, handlerMap) {
 
 function appendAsResultLine(dataElement, val) {
 	dataElement.value = dataElement.value + val + "\n";
+}
+
+// fix multiple line issues
+function prepareInitialContent(val) {
+	const lineContentArray = val.match(/.*\n/g);
+
+	let result = "";
+
+	for (let i = 0; i < lineContentArray.length; i++) {
+		let lineContent = lineContentArray[i];
+
+		// add an extra space before & after mobile pattern
+		if (lineContent.match(/.*(1[3-9][0-9]{9}).*/g)) {
+			let mobile = RegExp.$1;
+			// remove mobile data from the raw content
+			lineContent = lineContent.replace(RegExp.$1, " " + RegExp.$1 + " ");
+		}
+
+		if (lineContent.match(/(\d+)\.\s(\S*)(.*)\n/g)) {
+			result = result.concat("\n");
+			result = result + lineContent.replace("\n", "");
+		} else {
+			result = result.concat(",");
+			result = result + lineContent.replace("\n", " ");
+		}
+	}
+
+	result = result + "\n";
+
+	return result;
 }
