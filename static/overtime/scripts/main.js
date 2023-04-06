@@ -132,32 +132,29 @@ const OverTimeType = Object.freeze({
 });
 
 const officialHolidays = [
-    '04/05/2022',
-    '05/01/2022',
-    '06/03/2022',
-    '09/10/2022',
-    '10/01/2022'
+    '04/05/2023',
+    '06/22/2023',
+    '09/29/2023',
+    '10/01/2023'
 ]
 
 const officialWeekends = [
-    '04/04/2022',
-    '05/02/2022',
-    '05/03/2022',
-    '05/04/2022',
-    '09/12/2022',
-    '10/03/2022',
-    '10/04/2022',
-    '10/05/2022',
-    '10/06/2022',
-    '10/07/2022'
+    '05/02/2023',
+    '05/03/2023',
+    '06/23/2023',
+    '10/02/2023',
+    '10/03/2023',
+    '10/04/2023',
+    '10/05/2023',
+    '10/06/2023'
 ]
 
 const officialWorkDays = [
-    '04/02/2022',
-    '04/24/2022',
-    '05/07/2022',
-    '10/08/2022',
-    '10/09/2022'
+    '04/23/2023',
+    '05/06/2023',
+    '06/25/2023',
+    '10/07/2023',
+    '10/08/2023'
 ]
 
 function calcOverTimeType(dt) {
@@ -205,7 +202,10 @@ const titleArray = [
     ['TGVhbW9uIExp', 'SPA'], //Leamo
     ['QnJpbGxhbnQgRHU=', 'SPA'], //Brill
     ['U3RldmVuIExlaQ==', 'PA'], //Steve
-    ['QWxhbiBEaW5n', 'SPA'] //Alan 
+    ['QWxhbiBEaW5n', 'SPA'], //Alan 
+    ['UmlvIExp', 'PA'], //Rio L
+    ['Q2FsbHVtIFNvbmc=', 'SPA'], //Callu S
+    ['Q2xvdWQgU3Vu', 'SPA'] //Clou S
 ]
 
 function fetchTitleByEnglishName(englishName) {
