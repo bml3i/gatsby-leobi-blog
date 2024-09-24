@@ -45,8 +45,7 @@ tags:
 
 [![北欧简约风格实木书桌](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-desk.jpg)](https://s.click.taobao.com/t?e=m%3D2%26s%3DmWKyQf5w7tccQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sj%2FQiODiDgnwg1qdhPjl1QXHsXY7BYxLujXfzo7yWJmR0k4116u3yiias%2B9nihtyrOHvhaHxUAvPeywkvrCtTjvvifwQ9Sl%2F6GoxPuel67PPd5E0hPypGwzJ3wlR%2BD8%2F8YMXU3NNCg%2F&scm=null&pvid=null&app_pvid=59590_11.92.50.126_555_1590130470138&ptl=floorId%3A17741&originalFloorId%3A17741&app_pvid%3A59590_11.92.50.126_555_1590130470138&union_lens=lensId%3APUB%401590130424%400b08195d_0f37_1723b28b9fe_2e18%40026TdI4eRVbiwOOFhWyacAdL)
 
-产品链接: [天猫 - 北欧简约风格实木书桌](/item/workbench-desk)
-产品链接: <a href="/item/workbench-desk" title="天猫 - 北欧简约风格实木书桌" target="_blank">天猫 - 北欧简约风格实木书桌</a>
+产品链接: <a href="/item/workbench-desk" title="淘宝 - 北欧简约风格实木书桌" target="_blank">淘宝 - 北欧简约风格实木书桌</a>
 
 ---
 
@@ -123,4 +122,4 @@ tags:
 [![ORICO桌面理线器](https://leobi-1258137619.cos.ap-shanghai.myqcloud.com/img/workbench-orico.jpg)](https://union-click.jd.com/jdc?e=&p=AyIGZRNYFAoTDlAcWCUBGw9SGV0VCxUPUisfSlpMWGVCHlBDUAxLBQNQVk4YCQQAQB1AWQkFHUVBRhkSQw9THUJVEEMFSgxUVxZPI0AOEQ5dHFkTAhsAXRxrFX5iTwJvLX5gW1s%2BGiN0a2RCKmIEZQ4eN1ETWxwHIgdUGlsRARAEUxprJQIRNxR1WxYFGgJRK1scAxAHVh5cEwMiB1ETWhUAEQFSHVoRCiIAVRJrUWwWBgcSXhQLQVMFSFsWMiIEXBNcFwQSDlITXCUBIjdlG2sWMlBpVhhdRgIVAAceWxYEFwZRHAhHBxJUXRxfFlUXAlUZWkIyEAZUH1I%3D)
 
 
-产品链接: <a href="/item/workbench-orico" title="京东 - ORICO桌面理线器" target="_blank">京东 - ORICO桌面理线器</a>
+产品链接: <a href="/item/workbench-orico" title="淘宝 - ORICO桌面理线器" target="_blank">淘宝 - ORICO桌面理线器</a>
